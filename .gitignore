@@ -1,0 +1,5 @@
+profiles.yml
+set-env.*
+*.p8
+logs/
+.user.yml
